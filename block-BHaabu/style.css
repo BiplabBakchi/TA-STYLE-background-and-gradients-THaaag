@@ -87,14 +87,14 @@ body {
     border-radius: 6px;
 }
 .margin-top {
-    margin-top: 30px;
+    margin-top: 60px;
 }
 /*Header*/
 
 h1 {
     font-size: 30px;
     text-align: center;
-    padding: 30px;
+    padding-top: 30px;
     color: white;
 }
 .box1 {
